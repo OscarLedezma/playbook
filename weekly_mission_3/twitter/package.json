@@ -1,0 +1,26 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js"
+
+  },
+  "author": "Oscar Ledesma",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarLedezma/twiiter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OscarLedezma/twiiter/issues"
+  },
+  "homepage": "https://github.com/OscarLedezma/twiiter#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
